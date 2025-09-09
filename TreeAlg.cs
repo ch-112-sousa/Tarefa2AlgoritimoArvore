@@ -9,8 +9,6 @@ namespace Tarefa2AlgoritimoArvore
 {
     public static class TreeAlg
     {
-        
-
         #region [ PublicMethods ]
        
         public static string GetStringCenarios(StringBuilder sb, int[] numbers)

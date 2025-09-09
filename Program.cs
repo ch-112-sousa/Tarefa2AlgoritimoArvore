@@ -6,7 +6,6 @@ public class Program
 {
     public static void Main(string[] args)
     {
-
         var sb = new StringBuilder();
 
         string cenario1 = TreeAlg.GetStringCenarios(sb, new int[] { 3, 2, 1, 6, 0, 5 });
